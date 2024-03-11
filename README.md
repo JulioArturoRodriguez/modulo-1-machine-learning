@@ -1,2 +1,2 @@
-# modulo-1-machine-learning
+# ejercicios de trayectos
 Argentina-programa-4.0
