@@ -1,0 +1,12 @@
+import numpy as np
+a = np.array([1, 2, 3, 4, 5])
+np.square(a)
+np.sqrt(a)
+np.sin(a)
+np.cos(a)
+np.tan(a)
+print ()
+print ()
+print ()
+print ()
+print (a)
